@@ -14,6 +14,7 @@ Hi 👋, I'm Ashwani Ankireddypalle
 📫 How to reach me ashwaniankireddypalle@gmail.com
 
 Connect with me:
+https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg
 https://linkedin.com/in/www.linkedin.com/in/prudhvi-jamithireddy-b6121220b
 
 https://www.linkedin.com/in/ashwaniankireddypalle/
