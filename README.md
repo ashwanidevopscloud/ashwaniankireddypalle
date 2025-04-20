@@ -10,26 +10,11 @@ Hi 👋, I'm Ashwani Ankireddypalle
 🌱 I’m currently learning Python
 
 📫 How to reach me ashwaniankireddypalle@gmail.com
-
-Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwaniankireddypalle/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30" width="30" />](https://www.linkedin.com/in/ashwaniankireddypalle/)
-
-https://www.linkedin.com/in/ashwaniankireddypalle/
-
-Languages and Tools:
-
-)### 👋 Hi there!
-
-🌱 I’m currently learning **Python**  
-📫 How to reach me: [jamithireddyprudhvi9395@gmail.com](mailto:jamithireddyprudhvi9395@gmail.com)
-
 ---
 
 ## Connect with me:
 
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30"/>](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30"/>](https://www.linkedin.com/in/ashwaniankireddypalle/)
 
 ---
 
@@ -72,4 +57,4 @@ Languages and Tools:
 
 
 
-aws bash docker git grafana jenkins kubernetes linux
+
