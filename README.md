@@ -10,6 +10,7 @@ Hi 👋, I'm Ashwani Ankireddypalle
 🌱 I’m currently learning Python
 
 📫 How to reach me ashwaniankireddypalle@gmail.com
+
 ---
 
 ## Connect with me:
@@ -50,6 +51,10 @@ Hi 👋, I'm Ashwani Ankireddypalle
 ---
 
 ## 📊 GitHub Stats:
+
+![ashwani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashwanidevopscloud&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwanidevopscloud&layout=compact&theme=default)
 
 ![Prudhvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamithiprudhvi&show_icons=true&theme=default)
 
