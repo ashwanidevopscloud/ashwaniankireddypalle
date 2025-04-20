@@ -17,6 +17,8 @@ Hi 👋, I'm Ashwani Ankireddypalle
 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwaniankireddypalle/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30" width="30" />](https://www.linkedin.com/in/ashwaniankireddypalle/)
+
 https://www.linkedin.com/in/ashwaniankireddypalle/
 
 Languages and Tools:
