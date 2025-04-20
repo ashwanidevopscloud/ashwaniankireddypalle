@@ -19,14 +19,6 @@ Connect with me:
 https://www.linkedin.com/in/ashwaniankireddypalle/
 
 Languages and Tools:
-![AWS Logo](https://aws.amazon.com/)
-![Bash Logo](https://www.gnu.org/software/bash/)
-![Docker Logo](https://www.docker.com/)
-![Git Logo](https://git-scm.com/)
-![Grafana Logo](https://grafana.com/)
-![Jenkins Logo](https://www.jenkins.io/)
-![Kubernetes Logo](https://kubernetes.io/)
-![Linux Logo](https://www.linux.org/)
 
 ![AWS Logo](https://img.icons8.com/color/48/000000/amazon-web-services.png)
 ![Bash Logo](https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Identity/PNG/BASH_logo-transparent-bg-color.png)
