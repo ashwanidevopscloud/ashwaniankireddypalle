@@ -6,7 +6,7 @@ Hi 👋, I'm Ashwani Ankireddypalle
 
 ![image](https://github.com/user-attachments/assets/e6f36617-8555-4dd6-9524-8c6bdf5d0708)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)
+
 
 
 
@@ -16,7 +16,7 @@ Hi 👋, I'm Ashwani Ankireddypalle
 
 Connect with me:
 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwaniankireddypalle/)
 https://www.linkedin.com/in/ashwaniankireddypalle/
 
 Languages and Tools:
